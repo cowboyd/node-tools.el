@@ -1,7 +1,7 @@
 (source gnu)
 (source melpa)
 
-(package-file "node.el")
+(package-file "node-tools.el")
 
 (development
  (depends-on "f")

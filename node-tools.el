@@ -1,4 +1,4 @@
-;;; node.el --- Work with the Node JavaScript interpreter from emacs
+;;; node-tools.el --- Work with the Node JavaScript interpreter from emacs
 
 ;; Copyright (C) 2016 Charles Lowell
 
@@ -44,5 +44,5 @@
 ;;;###autoload
 (node-initialize)
 
-(provide 'node)
-;;; node.el ends here
+(provide 'node-tools)
+;;; node-tools.el ends here
