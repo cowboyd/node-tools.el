@@ -20,7 +20,7 @@
     (let ((default-directory dummy-node-project-dir))
       (shut-up
        (compile "node dummy-node-project/explode.js")
-       (sleep-for 0.1)))
+       (sleep-for 1)))
 
     ;; navigate to the next error and capture the js buffer;
     (next-error)
