@@ -1,5 +1,7 @@
 # node.el
 
+[![Build Status](https://travis-ci.org/cowboyd/node.el.svg?branch=master)](https://travis-ci.org/cowboyd/node.el)
+
 A collection of Node.js utilities for emacs.
 
 ## Stack Traces
